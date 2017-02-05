@@ -1,0 +1,6 @@
+{
+  "maxPoints": 100,
+  "items": [
+    {"id": 1, "material": "stone sword", "points": 12}
+  ]
+}
