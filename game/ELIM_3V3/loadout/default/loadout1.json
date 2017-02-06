@@ -1,6 +1,6 @@
 {
-  "name": "Default Loadout 1",
+  "name": "Default 1",
   "items": [
-    {"slot": 0, "id": 1}
+    {"slot": 0, "id": 1, "amount": 1}
   ]
 }
