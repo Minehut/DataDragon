@@ -3,6 +3,6 @@
   "items": [
     {"id": 1, "material": "stone sword", "points": 12, "builderSlot": 0},
     {"id": 2, "material": "bow", "points": 12, "builderSlot": 1},
-    {"id": 1, "material": "arrow", "points": 1, "builderSlot": 2, "builderAmount": 16}
+    {"id": 3, "material": "arrow", "points": 1, "builderSlot": 2, "builderAmount": 16}
   ]
 }
