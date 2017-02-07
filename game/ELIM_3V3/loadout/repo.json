@@ -21,10 +21,10 @@
     {"id": 52, "material": "leather leggings", "points": 10, "builderSlot": 18},
     {"id": 53, "material": "leather boots", "points": 8, "builderSlot": 27},
 
-    {"id": 54, "material": "chain helmet", "points": 12, "builderSlot": 1},
-    {"id": 55, "material": "chain chestplate", "points": 16, "builderSlot": 10},
-    {"id": 56, "material": "chain leggings", "points": 16, "builderSlot": 19},
-    {"id": 57, "material": "chain boots", "points": 12, "builderSlot": 28},
+    {"id": 54, "material": "chainmail helmet", "points": 12, "builderSlot": 1},
+    {"id": 55, "material": "chainmail chestplate", "points": 16, "builderSlot": 10},
+    {"id": 56, "material": "chainmail leggings", "points": 16, "builderSlot": 19},
+    {"id": 57, "material": "chainmail boots", "points": 12, "builderSlot": 28},
 
     {"id": 58, "material": "iron helmet", "points": 15, "builderSlot": 2},
     {"id": 59, "material": "iron chestplate", "points": 20, "builderSlot": 11},
