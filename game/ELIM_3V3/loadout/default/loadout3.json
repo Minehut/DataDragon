@@ -1,6 +1,14 @@
 {
   "name": "Default 3",
   "items": [
-    {"slot": 0, "id": 1}
+    {"slot": 0, "id": 1, "amount": 1},
+    {"slot": 1, "id": 10, "amount": 1},
+    {"slot": 2, "id": 70, "amount": 24},
+    {"slot": 8, "id": 11, "amount": 15},
+
+    {"slot": 100, "id": 53, "amount": 1},
+    {"slot": 101, "id": 52, "amount": 1},
+    {"slot": 102, "id": 51, "amount": 1},
+    {"slot": 103, "id": 50, "amount": 1}
   ]
 }
