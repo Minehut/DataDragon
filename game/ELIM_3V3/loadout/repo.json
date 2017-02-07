@@ -36,15 +36,15 @@
     {"id": 64, "material": "diamond leggings", "points": 24, "builderSlot": 21},
     {"id": 65, "material": "diamond boots", "points": 20, "builderSlot": 30},
 
-    {"id": 70, "material": "wood", "points": 1, "builderSlot": 45, "builderAmount": 64},
-    {"id": 71, "material": "glass", "points": 0.8, "builderSlot": 46, "builderAmount": 64},
+    {"id": 70, "material": "wood", "points": 1, "builderSlot": 36, "builderAmount": 64},
+    {"id": 71, "material": "glass", "points": 0.8, "builderSlot": 37, "builderAmount": 64},
 
-    {"id": 90, "material": "water bucket", "points": 10, "builderSlot": 54},
-    {"id": 91, "material": "ladder", "points": 2, "builderSlot": 55, "builderAmount": 64},
-    {"id": 92, "material": "vine", "points": 1.5, "builderSlot": 56, "builderAmount": 64},
-    {"id": 93, "material": "water lily", "points": 0.5, "builderSlot": 57, "builderAmount": 64},
-    {"id": 94, "material": "ender pearl", "points": 18, "builderSlot": 58, "builderAmount": 64},
-    {"id": 95, "material": "golden apple", "points": 18, "builderSlot": 59, "builderAmount": 64},
-    {"id": 96, "material": "web", "points": 10, "builderSlot": 60, "builderAmount": 64}
+    {"id": 90, "material": "water bucket", "points": 10, "builderSlot": 45},
+    {"id": 91, "material": "ladder", "points": 2, "builderSlot": 46, "builderAmount": 64},
+    {"id": 92, "material": "vine", "points": 1.5, "builderSlot": 47, "builderAmount": 64},
+    {"id": 93, "material": "water lily", "points": 0.5, "builderSlot": 48, "builderAmount": 64},
+    {"id": 94, "material": "ender pearl", "points": 18, "builderSlot": 49, "builderAmount": 64},
+    {"id": 95, "material": "golden apple", "points": 18, "builderSlot": 50, "builderAmount": 64},
+    {"id": 96, "material": "web", "points": 10, "builderSlot": 51, "builderAmount": 64}
   ]
 }
