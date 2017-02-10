@@ -9,12 +9,13 @@
     {"id": 5, "material": "stone axe", "points": 28, "builderSlot": 16},
     {"id": 6, "material": "diamond axe", "points": 35, "builderSlot": 17},
 
-    {"id": 4, "material": "wood pickaxe", "points": 8, "builderSlot": 24},
-    {"id": 5, "material": "stone axe", "points": 14, "builderSlot": 25},
-    {"id": 6, "material": "diamond axe", "points": 20, "builderSlot": 26},
+    {"id": 7, "material": "wood pickaxe", "points": 8, "builderSlot": 24},
+    {"id": 8, "material": "stone pickaxe", "points": 14, "builderSlot": 25},
+    {"id": 9, "material": "diamond pickaxe", "points": 20, "builderSlot": 26},
 
     {"id": 10, "material": "bow", "points": 12, "builderSlot": 42},
     {"id": 11, "material": "arrow", "points": 1, "builderSlot": 43, "builderAmount": 64},
+    {"id": 100, "material": "flint and steel", "points": 34, "builderSlot": 44, "builderAmount": 1},
 
     {"id": 50, "material": "leather helmet", "points": 8, "builderSlot": 0},
     {"id": 51, "material": "leather chestplate", "points": 10, "builderSlot": 9},
@@ -37,14 +38,15 @@
     {"id": 65, "material": "diamond boots", "points": 20, "builderSlot": 30},
 
     {"id": 70, "material": "wood", "points": 1, "builderSlot": 36, "builderAmount": 64},
-    {"id": 71, "material": "glass", "points": 0.8, "builderSlot": 37, "builderAmount": 64},
 
     {"id": 90, "material": "water bucket", "points": 10, "builderSlot": 45},
     {"id": 91, "material": "ladder", "points": 2, "builderSlot": 46, "builderAmount": 64},
-    {"id": 92, "material": "vine", "points": 1.5, "builderSlot": 47, "builderAmount": 64},
     {"id": 93, "material": "water lily", "points": 0.5, "builderSlot": 48, "builderAmount": 64},
-    {"id": 94, "material": "ender pearl", "points": 18, "builderSlot": 49, "builderAmount": 64},
+    {"id": 94, "material": "ender pearl", "points": 18, "builderSlot": 49, "builderAmount": 16},
     {"id": 95, "material": "golden apple", "points": 18, "builderSlot": 50, "builderAmount": 64},
-    {"id": 96, "material": "web", "points": 10, "builderSlot": 51, "builderAmount": 64}
+    {"id": 96, "material": "web", "points": 8, "builderSlot": 51, "builderAmount": 64},
+    {"id": 97, "material": "elytra", "points": 28, "builderSlot": 38, "builderAmount": 1},
+    {"id": 98, "material": "shield", "points": 25, "builderSlot": 39, "builderAmount": 1},
+    {"id": 99, "material": "magma", "points": 2, "builderSlot": 37, "builderAmount": 64}
   ]
 }
