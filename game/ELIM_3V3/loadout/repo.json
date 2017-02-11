@@ -1,20 +1,23 @@
 {
   "maxPoints": 100,
   "items": [
-    {"id": 1, "material": "wood sword", "points": 20, "builderSlot": 6},
-    {"id": 2, "material": "stone sword", "points": 30, "builderSlot": 7},
+    {"id": 1, "material": "wood sword", "points": 16, "builderSlot": 5},
+    {"id": 2, "material": "stone sword", "points": 24, "builderSlot": 6},
+    {"id": 102, "material": "iron sword", "points": 30, "builderSlot": 7},
     {"id": 3, "material": "diamond sword", "points": 40, "builderSlot": 8},
 
-    {"id": 4, "material": "wood axe", "points": 10, "builderSlot": 15},
-    {"id": 5, "material": "stone axe", "points": 28, "builderSlot": 16},
-    {"id": 6, "material": "diamond axe", "points": 35, "builderSlot": 17},
+    {"id": 4, "material": "wood axe", "points": 10, "builderSlot": 14},
+    {"id": 5, "material": "stone axe", "points": 20, "builderSlot": 15},
+    {"id": 103, "material": "iron axe", "points": 28, "builderSlot": 16},
+    {"id": 6, "material": "diamond axe", "points": 34, "builderSlot": 17},
 
-    {"id": 7, "material": "wood pickaxe", "points": 8, "builderSlot": 24},
-    {"id": 8, "material": "stone pickaxe", "points": 14, "builderSlot": 25},
+    {"id": 7, "material": "wood pickaxe", "points": 8, "builderSlot": 23},
+    {"id": 8, "material": "stone pickaxe", "points": 13, "builderSlot": 24},
+    {"id": 104, "material": "iron pickaxe", "points": 17, "builderSlot": 25},
     {"id": 9, "material": "diamond pickaxe", "points": 20, "builderSlot": 26},
 
     {"id": 10, "material": "bow", "points": 12, "builderSlot": 42},
-    {"id": 11, "material": "arrow", "points": 1, "builderSlot": 43, "builderAmount": 64},
+    {"id": 11, "material": "arrow", "points": 2, "builderSlot": 43, "builderAmount": 64},
     {"id": 100, "material": "flint and steel", "points": 34, "builderSlot": 44, "builderAmount": 1},
 
     {"id": 50, "material": "leather helmet", "points": 8, "builderSlot": 0},
@@ -27,26 +30,26 @@
     {"id": 56, "material": "chainmail leggings", "points": 16, "builderSlot": 19},
     {"id": 57, "material": "chainmail boots", "points": 12, "builderSlot": 28},
 
-    {"id": 58, "material": "iron helmet", "points": 15, "builderSlot": 2},
-    {"id": 59, "material": "iron chestplate", "points": 20, "builderSlot": 11},
-    {"id": 60, "material": "iron leggings", "points": 20, "builderSlot": 20},
-    {"id": 61, "material": "iron boots", "points": 15, "builderSlot": 29},
+    {"id": 58, "material": "iron helmet", "points": 18, "builderSlot": 2},
+    {"id": 59, "material": "iron chestplate", "points": 22, "builderSlot": 11},
+    {"id": 60, "material": "iron leggings", "points": 22, "builderSlot": 20},
+    {"id": 61, "material": "iron boots", "points": 18, "builderSlot": 29},
 
-    {"id": 62, "material": "diamond helmet", "points": 20, "builderSlot": 3},
-    {"id": 63, "material": "diamond chestplate", "points": 24, "builderSlot": 12},
-    {"id": 64, "material": "diamond leggings", "points": 24, "builderSlot": 21},
-    {"id": 65, "material": "diamond boots", "points": 20, "builderSlot": 30},
+    {"id": 62, "material": "diamond helmet", "points": 28, "builderSlot": 3},
+    {"id": 63, "material": "diamond chestplate", "points": 32, "builderSlot": 12},
+    {"id": 64, "material": "diamond leggings", "points": 32, "builderSlot": 21},
+    {"id": 65, "material": "diamond boots", "points": 28, "builderSlot": 30},
 
     {"id": 70, "material": "wood", "points": 1, "builderSlot": 36, "builderAmount": 64},
 
     {"id": 90, "material": "water bucket", "points": 10, "builderSlot": 45},
     {"id": 91, "material": "ladder", "points": 2, "builderSlot": 46, "builderAmount": 64},
     {"id": 93, "material": "water lily", "points": 0.5, "builderSlot": 48, "builderAmount": 64},
-    {"id": 94, "material": "ender pearl", "points": 24, "builderSlot": 49, "builderAmount": 16},
-    {"id": 95, "material": "golden apple", "points": 32, "builderSlot": 50, "builderAmount": 64},
+    {"id": 94, "material": "ender pearl", "points": 32, "builderSlot": 49, "builderAmount": 16},
+    {"id": 95, "material": "golden apple", "points": 20, "builderSlot": 50, "builderAmount": 64},
     {"id": 96, "material": "web", "points": 8, "builderSlot": 51, "builderAmount": 64},
     {"id": 97, "material": "elytra", "points": 28, "builderSlot": 38, "builderAmount": 1},
-    {"id": 98, "material": "shield", "points": 25, "builderSlot": 39, "builderAmount": 1},
+    {"id": 98, "material": "shield", "points": 18, "builderSlot": 39, "builderAmount": 1},
     {"id": 99, "material": "magma", "points": 2, "builderSlot": 37, "builderAmount": 64},
     {"id": 101, "material": "chorus fruit", "points": 12, "builderSlot": 40, "builderAmount": 64}
   ]
