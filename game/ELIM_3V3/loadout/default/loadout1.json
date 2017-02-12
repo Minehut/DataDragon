@@ -6,9 +6,9 @@
     {"slot": 2, "id": 70, "amount": 24},
     {"slot": 8, "id": 11, "amount": 15},
 
-    {"slot": 100, "id": 53, "amount": 1},
-    {"slot": 101, "id": 52, "amount": 1},
-    {"slot": 102, "id": 51, "amount": 1},
-    {"slot": 103, "id": 50, "amount": 1}
+    {"slot": 100, "id": 301, "amount": 1},
+    {"slot": 101, "id": 300, "amount": 1},
+    {"slot": 102, "id": 299, "amount": 1},
+    {"slot": 103, "id": 298, "amount": 1}
   ]
 }
