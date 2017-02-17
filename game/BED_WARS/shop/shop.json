@@ -1,0 +1,14 @@
+{
+  "upgrades": [
+    {"name": "forge", "cost": "3 diamond", "builderSlot": 0},
+    {"name": "sharp swords", "cost": "9 diamond", "builderSlot": 1}
+  ],
+  "items": [
+    {"material": "wood sword", "cost": "10 iron", "builderSlot": 0},
+    {"material": "stone sword", "cost": "30 iron", "builderSlot": 1},
+    {"material": "diamond sword", "cost": "12 gold", "builderSlot": 2},
+    {"material": "wood pickaxe", "cost": "4 iron", "builderSlot": 9},
+    {"material": "stone pickaxe", "cost": "24 iron", "builderSlot": 10},
+    {"material": "diamond pickaxe", "cost": "5 gold", "builderSlot": 11}
+  ]
+}
