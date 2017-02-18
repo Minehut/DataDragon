@@ -1,7 +1,7 @@
 {
   "upgrades": [
-    {"name": "forge", "cost": "3 diamond", "builderSlot": 0},
-    {"name": "sharp swords", "cost": "9 diamond", "builderSlot": 1}
+    {"name": "forge", "cost": "3 diamond"},
+    {"name": "sharp swords", "cost": "9 diamond"}
   ],
   "items": [
     {"material": "wood sword", "cost": "10 iron", "builderSlot": 0},
